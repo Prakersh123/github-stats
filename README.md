@@ -4,6 +4,7 @@
 
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 </a>
 
